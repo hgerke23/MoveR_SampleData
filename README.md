@@ -1,5 +1,5 @@
 
-MoveR <img src="https://github.com/qpetitjean/MoveR/raw/MoveRV1/man/figures/hexsticker.png" height="120" align="right"/>
+MoveR_SampleData <img src="https://github.com/qpetitjean/MoveR/raw/MoveRV1/man/figures/hexsticker.png" height="120" align="right"/>
 =========================================================
 
 <!-- badges: start -->
@@ -10,5 +10,5 @@ MoveR <img src="https://github.com/qpetitjean/MoveR/raw/MoveRV1/man/figures/hexs
 <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/qpetitjean/MoveR_SampleData/main">
 <!-- badges: end -->
 
-# MoveR_SampleData
+# Description
  Some sample of tracking data use to exemplify what can be performed with the MoveR package.
