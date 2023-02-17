@@ -1,6 +1,3 @@
----
-output: github_document
----
 
 MoveR <img src="https://github.com/qpetitjean/MoveR/raw/MoveRV1/man/figures/hexsticker.png" height="120" align="right"/>
 =========================================================
