@@ -11,4 +11,4 @@ MoveR_SampleData <img src="https://github.com/qpetitjean/MoveR/raw/MoveRV1/man/f
 <!-- badges: end -->
 
 # Description
- Some sample of tracking data use to exemplify what can be performed with the MoveR package.
+ Some sample of tracking data use to depict what can be performed with the MoveR package.
