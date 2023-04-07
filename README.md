@@ -1,5 +1,5 @@
 
-MoveR_SampleData <img src="https://github.com/qpetitjean/MoveR/raw/MoveRV1/man/figures/hexsticker.png" height="120" align="right"/>
+MoveR_SampleData <img src="https://github.com/qpetitjean/MoveR/raw/Main/man/figures/hexsticker.png" height="120" align="right"/>
 =========================================================
 
 <!-- badges: start -->
